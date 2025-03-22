@@ -1,5 +1,4 @@
-# Documentação do Projeto: Predição de Gastos com Planos de Saúde
-
+# Documentação do Projeto: Análise Exploratória de Dados do ENEM 2019
 ## 1. Descrição do Projeto
 
 Este projeto tem como objetivo realizar uma análise exploratória de dados do ENEM (Exame Nacional do Ensino Médio), do ano de 2019. Utilizando a base de dados disponibilizado pelo próprio Governo Federal e Ministério da Educação. O projeto explora a relação entre variáveis como cor, raça, histórico familiar, renda per-capta e suas influências nas notas dos cinco pilares avaliados.
